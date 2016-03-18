@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/brushSize1"
+        android:title="1x"
+        android:visible="true"/>
+
+    <item
+        android:id="@+id/brushSize4"
+        android:title="4x"
+        android:visible="true"/>
+
+    <item
+        android:id="@+id/brushSize16"
+        android:title="16x"
+        android:visible="true"/>
+
+    <item
+        android:id="@+id/brushSize32"
+        android:title="32x"
+        android:visible="true"/>
+
+    <item
+        android:id="@+id/brushSize64"
+        android:title="64x"
+        android:visible="true"/>
+
+</menu>
